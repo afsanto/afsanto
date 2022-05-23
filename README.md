@@ -2,6 +2,14 @@
 <h3 align="center"> Welcome to my GitHub </h3>
 <h2 align="center"><i> I’m currently working on my skills to become a programmer</i></h2>
 
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAdilson25876302
+
+
+
+
+
+
+
 <!--
 **afsanto/afsanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
