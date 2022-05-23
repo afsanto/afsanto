@@ -1,7 +1,7 @@
 <h1 align="center"> Adilson Santos </h1>
 <h3 align="center"> Welcome to my GitHub </h3>
 <h2 align="center"><i> I’m currently working on my skills to become a programmer</i></h2>
-
+![FatorTelecom01](https://user-images.githubusercontent.com/105400615/169827637-d2510196-d825-4303-ae96-a61a10b58477.jpg)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/afsanto)](https://github.com/afsanto)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afsanto/)](https://www.linkedin.com/in/afsanto/)
