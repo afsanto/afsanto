@@ -1,6 +1,6 @@
 <h1 align="center"> Adilson Santos </h1>
 <h3 align="center"> Welcome to my GitHub </h3>
-<h2 align="center"> I’m currently working on my skills to become a programmer </h2>
+<h2 align="center"><i> I’m currently working on my skills to become a programmer</i></h2>
 
 <!--
 **afsanto/afsanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
