@@ -1,4 +1,3 @@
-![FatorTelecom01](https://user-images.githubusercontent.com/105400615/169827637-d2510196-d825-4303-ae96-a61a10b58477.jpg)
 <h1 align="center"> Adilson Santos </h1>
 <h3 align="center"> Welcome to my GitHub </h3>
 <h2 align="center"><i> I’m currently working on my skills to become a programmer</i></h2>
